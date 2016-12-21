@@ -1,0 +1,12 @@
+.weather-week{
+	float: left;
+
+}
+.fiveDayForecast{
+	float: left;
+	width: 200px;
+	height: 300px;
+}
+#current-temp{
+	
+}
